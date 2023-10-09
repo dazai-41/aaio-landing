@@ -1,0 +1,11 @@
+:root{
+	--primary-color: #6880FF;
+	--primary-color-80: rgba(104, 128, 255, 0.8);
+	--primary-color-25: rgba(104, 128, 255, 0.25);
+	--primary-color-20: rgba(104, 128, 255, 0.2);
+	--primary-color-15: rgba(104, 128, 255, 0.15);
+	--gradient-bg: linear-gradient(180deg, rgba(104, 128, 255, 0) 0%, rgba(104, 128, 255, 0.3) 100%), #1F2335;
+	--gray: rgba(255, 255, 255, 0.3);
+	--white-text-color: rgba(255, 255, 255, 0.75);
+	--black-text-color: rgba(0, 0, 0, 0.6);
+}
